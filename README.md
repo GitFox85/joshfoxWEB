@@ -1,2 +1,0 @@
-# joshfoxWEB
-GitHub Pages
